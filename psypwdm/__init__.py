@@ -6,7 +6,7 @@ from ._out import out
 from ._del import delete
 
 # version
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 
 conn = Connection()
 PasswordManagerCreate(conn.cursor).create()
