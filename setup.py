@@ -11,7 +11,7 @@ if __name__ == '__main__':
         description='An open source, local password manager written with python for postgres',
         long_description=long_description,
         long_description_content_type='text/markdown',
-        url='https://github.com/KshkB/psypwdm/',
+        url='https://github.com/KshkB/local-password-manager',
         author='Kowshik Bettadapura',
         author_email='k.bettad@gmail.com',
         packages=['psypwdm'],
