@@ -35,5 +35,5 @@ Run the following code to install `psypwdm` locally.
 
 See a tutorial at the following link for instructions on using `psypwdm`:
 
-    - ...
+ - [Using the local password manager](https://nbviewer.org/github/KshkB/local-password-manager/blob/main/tutorials/using_pwdm.ipynb)
 
